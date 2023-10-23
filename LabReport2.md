@@ -80,3 +80,26 @@ and finally url got changed to its current link address with query ending in "s=
 
 
 
+## Part 2
+
+Path to private key in my computer
+
+![Path to private key in my computer](https://github.com/Lope879/cse15l-lab-reports/assets/100965607/04af7591-7ecb-474f-8b61-06aa2313eee3)
+
+Path to public key in remote computer
+
+![Path to public key in remote computer](https://github.com/Lope879/cse15l-lab-reports/assets/100965607/a3eb445b-06d3-4c5d-8343-7f9963afe4f1)
+
+Login without password
+
+![Login without password](https://github.com/Lope879/cse15l-lab-reports/assets/100965607/1fb5b1cf-809e-4ccb-ad94-ca45136b5505)
+
+
+## Part 3
+
+Some things I learned from lab 2 that I didn't know before are things such as connecting to a remote server from my terminal, creating a server, 
+running the server, and interacting with content inside the remote terminal. To connect to a remote server I need to use command ssh which I was able to use 
+for the UCSD remote server using my personal ucsd account. 
+
+Some things I learned from lab 3 are learning how to run a server from my computer and being able to interact with it using my browser, 
+as well as learning how to copy a file from my terminal to a remote terminal.
