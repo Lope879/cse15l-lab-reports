@@ -23,7 +23,7 @@ I first copied the ssh url of the forked repository in my github account. Then, 
 
 `bash te` `<tab>` `<enter>`
 
-I used command `cd` to access the lab7 repository and after used command `bash` to run the bash file "test.sh" which contained the tests that ran and failed. The `tab` keypresses helped to fill in the file names found in the repository. 
+I used command `cd` to access the lab7 repository and after used command `bash` to run the bash file "test.sh" which contained the tests that ran and failed. The `<tab>` keypresses helped to fill in the file names found in the repository. 
 
 
 ## Step 7
