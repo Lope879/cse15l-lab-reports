@@ -45,7 +45,7 @@ was replaced by a 2, resulting in "index2". I then saved and quit the file with 
 
 `<up arrow>` `<up arrow>` `<enter>`
 
-The up arrows allowed me to search through my history of comamand lines ran previously, which one of them was bash test.sh. After running the bash file, the tests ran successfully. 
+The up arrows allowed me to search through my history of comamand lines ran previously, which one of them was `bash test.sh`. After running the bash file, the tests ran successfully. 
 
 
 ## Step 9
