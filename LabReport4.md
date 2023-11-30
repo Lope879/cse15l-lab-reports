@@ -59,7 +59,9 @@ The up arrows allowed me to search through my history of comamand lines ran prev
 ![image](https://github.com/Lope879/cse15l-lab-reports/assets/100965607/e8565a0f-93d7-4a53-8798-6754175b8563)
 
 ```
-git add List <tab> <enter> git commit <enter> <i> change done <esc> <:> <w> <q> <enter> git push <enter>
+git add List <tab> <enter> git commit <enter> <i>
+
+change done <esc> <:> <w> <q> <enter> git push <enter>
 ```
 
 The `git add` command allowed me to add the file changed into a request to confirm its modification. The `git commit` command prompted me to enter a message for the change in vim format, which I had to use `<i>`
