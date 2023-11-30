@@ -3,14 +3,18 @@
 ## Step 1
 
 jUnit Test Errors
+
 ***
+
 Cesar Lopez: Hello, I was curious why my JUnit test runs into a TimeOutException. Could it be a bug on my jUnit test or the file itself?
 
 ![JUnit Failure](https://github.com/Lope879/cse15l-lab-reports/assets/100965607/4a4a4cd0-e5b2-4569-a01c-c0a00ac38428)
 
 
 1 Answer
+
 ***
+
 TA Member: Hello Cesar, the error seems to be found in the file itself. Try scanning the content of the file ListExamples.java using the vim command and
 checking the bug found in the class's merge command. When you find the error, you can use insert mode in vim to fix the bug.
 
